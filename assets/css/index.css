@@ -508,9 +508,9 @@ img {
 	height: auto;
 }
 h1, h2, h3, h4, h5, h6 {
-	font: 700 54px/1.2 'Crimson Text', serif;
+	font: 700 54px/1.2 'Crimson Text', serif; !important
 	margin: 0 0 20px;
-	color: #d43a11;
+	color: #d43a11; !important
 }
 
 h2 {
